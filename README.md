@@ -1,1 +1,1 @@
-# smsInput
+# smsInput component
